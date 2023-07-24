@@ -44,12 +44,12 @@ A continuación, se muestran algunas capturas de pantalla del funcionamiento del
 
 1. Página de inicio:
 
-	![Página de inicio](./src/main/webapp/screenshots/pagina-inicio.jpg)
+	![Página de inicio](./src/main/webapp/screenshots/pagina-inicio.png)
 
 2. Formulario para agregar clientes:
 
-	![Agregar cliente](./src/main/webapp/screenshots/form-agregar-cliente.jpg)
+	![Agregar cliente](./src/main/webapp/screenshots/form-agregar-cliente.png)
 
 3. Formulario para editar o eliminar clientes:
 
-	![Editar Eliminar cliente](./src/main/webapp/screenshots/form-editar-eliminar-cliente.jpg)
+	![Editar Eliminar cliente](./src/main/webapp/screenshots/form-editar-eliminar-cliente.png)
